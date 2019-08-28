@@ -3,7 +3,7 @@
 
 # Log file
 *.log
-test.iml
+.iml
 # BlueJ files
 *.ctxt
 
